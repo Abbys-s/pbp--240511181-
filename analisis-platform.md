@@ -22,3 +22,12 @@
 
 3. Android Developers — Application fundamentals.
    https://developer.android.com/guide/components/fundamentals
+
+
+## Refleksi
+
+Menurut saya, platform yang paling menarik untuk dipelajari adalah platform web. Saya tertarik mempelajari platform web karena penggunaannya cukup mudah dan bisa diakses melalui browser. Selain itu, saya ingin belajar bagaimana cara membuat website sendiri menggunakan HTML, CSS, dan JavaScript. Menurut saya, kemampuan tersebut akan berguna untuk menambah pengetahuan dan keterampilan saya dalam bidang pemrograman.
+
+Tantangan terbesar yang saya alami saat menyiapkan environment adalah ketika menggunakan Git dan menghubungkannya dengan GitHub. Saya sempat mengalami kesulitan saat melakukan commit karena nama dan email Git belum diatur. Namun, setelah membaca pesan yang muncul di terminal dan mengikuti langkah-langkah yang diberikan, saya akhirnya bisa mengatasi masalah tersebut. Saya juga berhasil mengirim file tugas ke repository GitHub.
+
+Untuk mengatasi kesulitan ke depannya, saya akan mencoba mempelajari setiap tools secara bertahap dan lebih sering berlatih menggunakan terminal. Jika menemukan kesalahan, saya akan membaca pesan error terlebih dahulu dan mencari tahu penyebabnya. Saya juga akan mempelajari dokumentasi dan bertanya ketika ada hal yang belum saya pahami. Dengan cara tersebut, saya berharap bisa lebih memahami pemrograman dan menyelesaikan tugas berikutnya dengan lebih baik.
